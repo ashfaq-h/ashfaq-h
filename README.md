@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashfaq
-- 👀 I’m an aspiring Data Scientist and currently working at Accenture as ML model validation Engineer
+- 👀 I’m Data Scientist and currently working at Allstate
 - 🌱 I’m interested in NLP and ComputerVision
 
 <!---
