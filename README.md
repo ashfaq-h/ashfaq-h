@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashfaq
-- 👀 I’m Data Scientist and currently working at Allstate
+- 👀 Working at Allstate as a Data Scientist
 - 🌱 I’m interested in NLP and ComputerVision
 
 <!---
