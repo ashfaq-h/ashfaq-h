@@ -2,8 +2,17 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtraHowMGdwNTZqcjRydzF4ZHh3dTcyd2N1am5tYzUyN2dtNTJueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkVIzvAEUA4ISI6WpO/giphy.gif" width="100"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
----
+<h1>
+  Hey there, Ashfaq here
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
