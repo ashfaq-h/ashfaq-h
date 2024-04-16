@@ -23,6 +23,14 @@ Welcome to my GitHub profile! I'm a Data Science enthusiast who enjoys using dat
 ## Skills
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
+<!---
+## GitHub Analytics
+[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashfaq-h&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-h&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashfaq-h&show_icons=true&theme=dark&utcOffset=8)](https://github.com/ashfaq-h)
+
+## GitHub Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashfaq-h&theme=dark&hide_border=true)](https://git.io/streak-stats)
+--->
+
 ### Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
