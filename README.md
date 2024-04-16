@@ -1,8 +1,19 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtraHowMGdwNTZqcjRydzF4ZHh3dTcyd2N1am5tYzUyN2dtNTJueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkVIzvAEUA4ISI6WpO/giphy.gif" width="100"/>
-</div>
 
-<div id="badges" align="center">
+
+<!---
+<div id="header" align="center">
+  <img src =https://github.com/ashfaq-h/ashfaq-h/assets/32511436/09ab53f0-82c4-4a77-8ea0-46bb3dcd0fb3
+</div>
+--->
+![](https://github.com/ashfaq-h/ashfaq-h/assets/32511436/a75439f1-784e-468f-8fa0-b1036fcfc4ff)
+
+
+# Ashfaq H
+### Data Scientist & Machine Learning Engineer
+
+Welcome to my GitHub profile! I'm a Data Science enthusiast who enjoys using data to uncover insights and solve complex problems. I'm continuously expanding my skills and knowledge in the field of data science.
+
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/ashfaq-h-447806b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
