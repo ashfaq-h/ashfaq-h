@@ -44,3 +44,5 @@ Welcome to my GitHub profile! I'm a Data Science enthusiast who enjoys using dat
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
+
+![Snake animation](https://github.com/ashfaq-h/ashfaq-h/blob/main/assets/github-contribution-grid-snake.svg)
