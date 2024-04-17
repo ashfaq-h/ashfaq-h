@@ -1,5 +1,3 @@
-
-
 <!---
 <div id="header" align="center">
   <img src =https://github.com/ashfaq-h/ashfaq-h/assets/32511436/09ab53f0-82c4-4a77-8ea0-46bb3dcd0fb3
@@ -8,8 +6,8 @@
 ![](https://github.com/ashfaq-h/ashfaq-h/assets/32511436/a75439f1-784e-468f-8fa0-b1036fcfc4ff)
 
 # Ashfaq H
-### Data Scientist & Machine Learning Engineer
-Welcome to my GitHub profile! I'm a Data Science enthusiast who enjoys using data to uncover insights and solve complex problems. I'm continuously expanding my skills and knowledge in the field of data science.
+### Data Scientist & ML Engineer
+Welcome to my GitHub profile! I'm a Data Science enthusiast who enjoys using data to uncover insights and solve complex problems. I'm continuously expanding my skills and knowledge in the field of data science and machine learning.
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/ashfaq-h-447806b0/">
@@ -25,13 +23,17 @@ Welcome to my GitHub profile! I'm a Data Science enthusiast who enjoys using dat
 
 <!---
 ## GitHub Analytics
-[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashfaq-h&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-h&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashfaq-h&show_icons=true&theme=dark&utcOffset=8)](https://github.com/ashfaq-h)
+[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashfaq-h&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-h&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashfaq-h&show_icons=true&theme=dark&utcOffset=8)](https://github.com/ashfaq-h)
 
 ## GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashfaq-h&theme=dark&hide_border=true)](https://git.io/streak-stats)
 --->
 
-### Languages and Tools :
+## Courses
+[![Static Badge](https://img.shields.io/badge/IBM%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/professional-cert/3B5MXKTN9AFW) [![Static Badge](https://img.shields.io/badge/Data%20Science%20with%20Python-Course-%20?style=flat&logo=coursera&color=blue)](https://olympus1.mygreatlearning.com/course_certificate/KQJULHNG)
+
+
+## Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="55"/>&nbsp;
